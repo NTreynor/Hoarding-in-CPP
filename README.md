@@ -10,4 +10,4 @@ Example line to feed into CMD:
 
 /home/kodethon/InstrSol/Rules/OneMoveRules.txt /home/kodethon/InstrSol/Boards/FreeParkingOnly.csv /home/kodethon/InstrSol/RandomFiles/All3s.txt
 
-Sample rules files, board files, and dice files will be committed to the repository shortly. 
+Of note, some files are headed by "created by MFButner on x/xx/xxxx" - This was the inititialization of the file upon the inception of the project, and was no more than a labeled file and initilized names of functions. All written code is done by either myself, or my partner, Max Flyyn.
